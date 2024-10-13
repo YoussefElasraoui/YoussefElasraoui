@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefelasraoui&label=Profile%20views&color=0e75b6&style=flat" alt="youssefelasraoui" /> </p>
 
 
-- 🔭 Currently working on [Guideout](guideout.org)
+- Currently working on [Guideout](guideout.org)
 
-- 👨‍💻 All of my projects are available at [https://youssefelasraoui.netlify.app/](https://youssefelasraoui.netlify.app/)
+- My Personal Website: [https://youssefelasraoui.netlify.app/](https://youssefelasraoui.netlify.app/)
 
-- 📝 I regularly write articles on [guideout.org](guideout.org)
+- I regularly write articles on [guideout.org](guideout.org)
 
-- 📫 How to reach me **youssefelasraoui59@gmail.com**
-
-- 📄 Know about my experiences [https://youssefelasraoui.netlify.app/](https://youssefelasraoui.netlify.app/)
+- My email **youssefelasraoui59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
